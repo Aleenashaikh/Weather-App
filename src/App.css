@@ -1,0 +1,10 @@
+.para{
+  font-size: 20px;
+}
+.myinp::placeholder{
+  color: white;
+  opacity: 0.7;
+}
+.myicon{
+  padding: 10px;
+}
